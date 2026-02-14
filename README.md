@@ -17,9 +17,9 @@ This is a hackpad that is based on Xiao Rp2040 that has 9 Buttions and 2 RotorIn
 4 x  M3x16mm screws <br>
 **#**
 4 x  M3x5mx4mm heatset inserts <br>
-<br><br>
-**Schematic**
-<img width="422" height="609" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/e2c5c854-aedd-4f98-8f1d-25685b44a8d6" /><br><br><br>
+
+**Schematic**<br><br>
+<img width="422" height="609" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/e2c5c854-aedd-4f98-8f1d-25685b44a8d6" /><br><br>
 **PCB**<br>
 <img width="530" height="680" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/d12edf14-4e3d-477c-bbc6-81f5eb0c0257" /><br><br>
 <br>
